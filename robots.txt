@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /mev-rewards/
+Sitemap: https://mev-rewards.github.io/sitemap.xml
